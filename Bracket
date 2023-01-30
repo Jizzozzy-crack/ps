@@ -55,7 +55,7 @@ function Library:CreateWindow(Config, Parent)
 	end
 	]]
 	
-	Screen.Name =  ByebaihTECH
+	Screen.Name =  "ByebaihTECH"
 	Screen.Parent = Parent
 	Topbar.WindowName.Text = Config.WindowName
 
